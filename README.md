@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YemmyT
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning software dev
+- 🌱 I’m currently learning security analyst 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
